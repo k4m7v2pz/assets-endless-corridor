@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "fonts": {
+    "MiNiJianShaoEr": {
+      "family": "MiNiJianShaoEr",
+      "directory": "MiNiJianShaoEr",
+      "license": "LICENSE",
+      "locales": {
+        "zh_CN": {
+          "Regular": "locales/zh_CN/MiNiJianShaoEr-Regular.ttf"
+        }
+      }
+    },
+    "SourceHanSansSC": {
+      "family": "SourceHanSansSC",
+      "directory": "SourceHanSansSC",
+      "license": "LICENSE",
+      "locales": {
+        "zh_CN": {
+          "Regular": "locales/zh_CN/SourceHanSansSC-Regular.otf",
+          "Bold": "locales/zh_CN/SourceHanSansSC-Bold.otf"
+        }
+      }
+    },
+    "ZhanKuKuaiLeTi": {
+      "family": "ZhanKuKuaiLeTi",
+      "directory": "ZhanKuKuaiLeTi",
+      "license": "LICENSE",
+      "locales": {
+        "zh_CN": {
+          "Regular": "locales/zh_CN/ZhanKuKuaiLeTi-Regular.ttf"
+        }
+      }
+    }
+  }
+}
