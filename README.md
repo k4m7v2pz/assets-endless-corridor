@@ -10,6 +10,10 @@
 - 使用、修改、传播时**必须保留署名**与版权声明。
 - 完整条款见 [`LICENSE`](./LICENSE)，官方地址：http://license.coscl.org.cn/MulanOWLBYPLv1
 
+> SPDX 说明：Mulan OWL 系列目前**尚未收录进 SPDX 官方许可证列表**（列表内仅有
+> `MulanPSL-1.0/2.0` 与 `MulanPubL-1.0/2.0`），故本仓库无官方 SPDX 短标识可用；
+> 请以上述官方全名与链接作为许可引用。
+
 ## 目录
 
 - `sprites/`、`tiles/` — 美术图块
